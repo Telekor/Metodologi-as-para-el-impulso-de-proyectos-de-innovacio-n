@@ -4,9 +4,9 @@ Unidad_Area:   Dirección General de Telecomunicaciones y Sociedad de la Informa
 # Propuesta de Reto de Innovación
 
 
-Participante: [%Participante]
+Participante: Rafael Bretón Gómez
 
-Unidad / Área de servicio:[%Unidad_Área]
+Unidad / Área de servicio:Dirección General de Telecomunicaciones y Sociedad de la Información
 
 
 
@@ -67,7 +67,9 @@ Control real sobre los planes efectividad de los planes estratégicos y, en defi
 
 >	Intención a corto plazo de arrancar con el desarrollo del reto de innovación y soporte que necesitarías
 
-Pendiente de reforzar vínculos estratégicos para hacer ver la utilidad de la herramienta. 
+El primer paso sería la formación de un grupo multidisciplinar en conocimientos y capacidades cognitivas, con experiencia en la materia y con  interés por la innovación.
+
+Este grupo sería capaz de perfilar la solución, incorporando también los requisitos que pueden extraer inicialmente de las personas usuarias mediante métodos antropológicos y con el trabajo que después se realice sobre el prototipo.
 
 Inicialmente se implantaría el módulo de previsión, posteriormente el de gasto y por último el de transparencia para la ciudadanía.
 
