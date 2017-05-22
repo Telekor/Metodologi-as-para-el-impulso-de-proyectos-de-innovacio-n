@@ -1,4 +1,5 @@
 Participante:  Rafael Bretón Gómez
+
 Unidad_Area:   Dirección General de Telecomunicaciones y Sociedad de la Información
 
 # Propuesta de Reto de Innovación
@@ -67,7 +68,7 @@ Control real sobre los planes efectividad de los planes estratégicos y, en defi
 
 >	Intención a corto plazo de arrancar con el desarrollo del reto de innovación y soporte que necesitarías
 
-El primer paso sería la formación de un grupo multidisciplinar en conocimientos y capacidades cognitivas, con experiencia en la materia y con  interés por la innovación.
+El primer paso sería la formación de un grupo multidisciplinar, tatno en conocimientos y capacidades cognitivas, con experiencia en la materia y con  interés por la innovación.
 
 Este grupo sería capaz de perfilar la solución, incorporando también los requisitos que pueden extraer inicialmente de las personas usuarias mediante métodos antropológicos y con el trabajo que después se realice sobre el prototipo.
 
